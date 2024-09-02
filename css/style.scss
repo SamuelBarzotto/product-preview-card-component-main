@@ -1,6 +1,13 @@
 body{
-    background-color: rgb(241, 241, 127);
+    background-color: #F3EAE3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-.card{
-    background-color: white;
+
+#card{
+    border-radius: 5%;
+    height: 500px;
+    width: 400px;
+    display: flex;
 }
